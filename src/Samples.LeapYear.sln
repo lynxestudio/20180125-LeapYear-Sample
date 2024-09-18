@@ -1,17 +1,18 @@
-
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samples.LeapYear", "Samples.LeapYear\Samples.LeapYear.csproj", "{16BA086B-F1B8-4897-8793-47D6E8596285}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samples.LeapYear", "Samples.LeapYear\Samples.LeapYear.csproj", "{A5299B28-037A-42DD-A6DD-51D87F5E6F52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x86 = Debug|x86
-		Release|x86 = Release|x86
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{16BA086B-F1B8-4897-8793-47D6E8596285}.Debug|x86.ActiveCfg = Debug|x86
-		{16BA086B-F1B8-4897-8793-47D6E8596285}.Debug|x86.Build.0 = Debug|x86
-		{16BA086B-F1B8-4897-8793-47D6E8596285}.Release|x86.ActiveCfg = Release|x86
-		{16BA086B-F1B8-4897-8793-47D6E8596285}.Release|x86.Build.0 = Release|x86
+		{A5299B28-037A-42DD-A6DD-51D87F5E6F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5299B28-037A-42DD-A6DD-51D87F5E6F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5299B28-037A-42DD-A6DD-51D87F5E6F52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5299B28-037A-42DD-A6DD-51D87F5E6F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 EndGlobal
