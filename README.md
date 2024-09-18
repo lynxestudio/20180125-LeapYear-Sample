@@ -5,7 +5,7 @@ The Gregorian Calendar is the most widely used calendar in the world today.It is
 </p>
 <div><b>Fig 1. Pope Gregory XIII </b></div><br/>
 <div>
-<img src="picture_library/leapYear/gregory_xiii.jpg" />
+<img src="images/gregory_xiii.jpg" />
 </div><br />
 <p align="Justify">
 The changes made by Gregory also corrected the drift in the civil calendar which arose because the mean Julian calendar year was slightly too long, causing the vernal equinox, and consequently the date on which Easter was being celebrated, to slowly drift forward in relation to the civil calendar and the seasons. The Gregorian Calendar system dealt with these problems by dropping 10 days to bring the calendar back into synchronization with the seasons, and adopting the following leap year rule: 
@@ -18,9 +18,9 @@ The following application shows how to calculate a leap year.
 </p>
 <div><b>Fig 2 Testing the application.</b></div><br />
 <div>
-<img src="picture_library/leapYear/fig1.png" />
+<img src="images/fig1.png" />
 </div><br />
 <div><b>Fig 3 Running a second test.</b></div><br />
 <div>
-<img src="picture_library/leapYear/fig2.png" />
+<img src="images/fig2.png" />
 </div><br />
